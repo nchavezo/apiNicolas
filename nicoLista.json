@@ -25,9 +25,16 @@
     "usuarios": [
       {
         "id": 2,
-        "username": "bladimirasdfasdf",
-        "password": "piña",
+        "username": "nico",
+        "password": "nico",
         "email": "bpiña@duocuc.cl",
+        "clave": "456789asdf34rer3re3sdfa"
+      },
+      {
+        "id": 3,
+        "username": "aa",
+        "password": "aa",
+        "email": "bpiñaaaaa@duocuc.cl",
         "clave": "456789asdf34rer3re3sdfa"
       }
     ]
