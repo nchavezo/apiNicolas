@@ -3,22 +3,16 @@
       {
         "id": 1023,
         "nombre": "cafe",
-        "descripcion": "descremada colun",
-        "fecha": "2023-10-12T19:31:29.157Z",
         "cantidad": 2
       },
       {
         "id": 1024,
         "nombre": "azucar",
-        "descripcion": "descremada colun",
-        "fecha": "2023-10-12T19:31:29.157Z",
         "cantidad": 2
       },
       {
         "id": 1025,
         "nombre": "leche",
-        "descripcion": "descremada colun",
-        "fecha": "2023-10-12T19:31:29.157Z",
         "cantidad": 2
       }
     ],
